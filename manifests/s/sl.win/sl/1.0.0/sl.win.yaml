@@ -1,0 +1,15 @@
+PackageIdentifier: sl.win
+PackageVersion: 1.0.0
+PackageName: sl
+Publisher: pro25845
+License: Permissive custom license with attribution requirement
+ShortDescription: Steam Locomotive animation for Windows terminal (PDCurses build)
+PackageLocale: en-US
+ManifestType: singleton
+ManifestVersion: 1.6.0
+
+Installers:
+  - Architecture: x64
+    InstallerType: portable
+    InstallerUrl: https://github.com/pro25845/sl/releases/download/1.0.0/sl.exe
+    InstallerSha256: 513735C4DA6651038204403C5FFE3AB7AD86A526EE26075FC9B780BF6FA5C9C8
